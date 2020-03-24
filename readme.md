@@ -69,7 +69,7 @@ Connecting room to room is pretty straight forward, however taking and using ite
  - Players can `use` items to change the state of the room (use key or use light)
  - Items exist for the player to `take` from rooms (not required for these to be used in a room)
  - `quit` ends the game
- - At least 4 rooms, 1 usable item, and 1 takeable item
+ - At least 6 rooms, 2 usable items, and 2 takeable items
  - Players can lose the game due to a bad decision
  - The game is winnable 
 
